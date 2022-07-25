@@ -1,0 +1,1 @@
+// Method 5 : Using switch-case

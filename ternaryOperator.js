@@ -1,0 +1,1 @@
+// Method 4 : Using ternary operator
